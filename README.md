@@ -220,12 +220,3 @@ A threshold of 0.5 is used for the visualization, followed by connected-componen
 
 3. [PyTorch Documentation](https://pytorch.org/docs/stable/index.html).
 
----
-
-**Author:** [Your Name]
-
-**Institution:** University Ibn Zohr
-
-**Field:** Artificial Intelligence
-
-**Project:** Deep Learning – Biomedical Image Segmentation
